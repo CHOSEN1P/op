@@ -108,10 +108,10 @@ jobs:
           CONFIG_PACKAGE_luci-app-upnp=n
           CONFIG_PACKAGE_luci-app-vlmcsd=n
           CONFIG_PACKAGE_luci-app-vsftpd=n
-          CONFIG_PACKAGE_luci-app-wireguard=y
+          CONFIG_PACKAGE_luci-app-wireguard=n
           CONFIG_PACKAGE_luci-app-wol=n
           CONFIG_PACKAGE_luci-app-xlnetacc=n
-          CONFIG_PACKAGE_luci-app-zerotier=n
+          CONFIG_PACKAGE_luci-app-zerotier=y
           EOF
           
           #主题
