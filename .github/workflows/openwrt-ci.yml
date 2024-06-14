@@ -111,7 +111,7 @@ jobs:
           CONFIG_PACKAGE_luci-app-wireguard=n
           CONFIG_PACKAGE_luci-app-wol=n
           CONFIG_PACKAGE_luci-app-xlnetacc=n
-          CONFIG_PACKAGE_luci-app-zerotier=y
+          CONFIG_PACKAGE_luci-app-zerotier=n
           EOF
           
           #主题
